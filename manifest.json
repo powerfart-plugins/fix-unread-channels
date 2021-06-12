@@ -1,0 +1,7 @@
+{
+  "name": "Fix unread channels",
+  "description": "Fixes the behavior of channels when a message has been deleted, but there are still unread ones",
+  "author": "Xinos",
+  "version": "1.0.0",
+  "license": "MIT"
+}
