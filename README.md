@@ -1,7 +1,5 @@
-# Hot remount
+# Fix unread channels
 
-<img src="preview/image0.png" width="700px" align="center" alt="Hot remount Preview">
+<video src="preview/video0.mp4" width="700px" align="center"><video/>
 
-New command to track changes in a plugin and automatically remount it
-
-using: `.watch <plugin-id>`
+Fixes the behavior of channels when a message has been deleted, but there are still unread ones
